@@ -1,0 +1,15 @@
+<!--pages/OCR/OCR.wxml-->
+<view class="container">
+  <image class="title" src="/images/more/title2.png"></image>
+  <button style="margin:rpx;" bindtap="chooseimage">获取图片</button>
+  <image class="a"src="{{tempFilePaths }}" mode="aspecFill" style="width: 100%; height: 450rpx" />
+  <button class="bn" bindtap="imageOCR">image OCR</button>
+   <text class="tx">{{resultstring}}</text>
+   <image class="wave" src="/images/more/wave.png" mode="aspectFill"></image>
+   <image class="wave wave-bg" src="/images/more/wave.png" mode="aspectFill"></image>
+  
+  
+  
+
+
+</view>

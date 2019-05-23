@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/logs/logs",
+    "pages/OCR/OCR",
+    "pages/test/test"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
