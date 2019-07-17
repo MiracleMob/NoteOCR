@@ -42,9 +42,9 @@ App({
   },
   globalData: {
     userInfo: null,
-    appid: "1257904597",
-    secretid: "AKIDFOM7iBh1WsfHi0phI1Zt27zVq24wNHk3",
-    secret: "JXhidMxPiFakmeLsKbJrFVaTEpFUZSBi"
+    appid: "",
+    secretid: "",
+    secret: ""
   }
 
 
